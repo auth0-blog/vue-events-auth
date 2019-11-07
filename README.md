@@ -18,7 +18,7 @@ View it in the browser at [http://localhost:8080](http://localhost:8080).
 
 We're going to use Auth0 to add authentication to the app.
 
-First, [sign up for a free Auth0 account](https://auth0.com/signup"). Once you're registered, you'll be taken to the [Auth0 management dashboard](https://manage.auth0.com/dashboard/).
+First, [sign up for a free Auth0 account](https://auth0.com/signup). Once you're registered, you'll be taken to the [Auth0 management dashboard](https://manage.auth0.com/dashboard/).
 
 Click on the big red button that says "Create Application". 
 
