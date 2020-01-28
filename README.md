@@ -7,7 +7,7 @@ This is a simple Vue website that demonstrates how to get started with Vue.js, a
 ## Project setup
 
 ```bash
-git clone https://github.com/hollylawly/vue-events-auth.git
+git clone https://github.com/auth0-blog/vue-events-auth.git
 npm install
 npm run serve
 ```
